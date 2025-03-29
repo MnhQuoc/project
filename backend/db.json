@@ -1,38 +1,34 @@
 {
   "users": [
-    { 
-      "stt": 1,
-      "picture": "/public/pictures/pic1.jpg",
-      "quantity": "2",
-      "price": 100000,
-      "id": "1"
-    },
-    { 
+    {
       "stt": 2,
       "picture": "/public/pictures/pic2.jpg",
       "quantity": "1",
       "price": 350000,
       "id": "2"
     },
-    { 
+    {
       "stt": 3,
       "picture": "/public/pictures/pic3.jpg",
       "quantity": "2",
       "price": 100000,
       "id": "3"
-    },{ 
+    },
+    {
       "stt": 4,
       "picture": "/public/pictures/pic4.jpg",
       "quantity": "2",
       "price": 100000,
       "id": "4"
-    },{ 
+    },
+    {
       "stt": 5,
       "picture": "/public/pictures/pic5.jpg",
       "quantity": "2",
       "price": 100000,
       "id": "5"
-    },{ 
+    },
+    {
       "stt": 6,
       "picture": "/public/pictures/pic6.jpg",
       "quantity": "2",
